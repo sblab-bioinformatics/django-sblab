@@ -1,3 +1,3 @@
-# SQL scripts and other database database components
+# SQL scripts and other database components
 
 Some of these scripts might be redundant or outdated.
